@@ -1,0 +1,37 @@
+C:\Users\user\Desktop\sample\1005Server\1005Server\bin\Debug\1005Server.exe.config
+C:\Users\user\Desktop\sample\1005Server\1005Server\bin\Debug\1005Server.exe
+C:\Users\user\Desktop\sample\1005Server\1005Server\bin\Debug\1005Server.pdb
+C:\Users\user\Desktop\sample\1005Server\1005Server\obj\Debug\1005Server.exe
+C:\Users\user\Desktop\sample\1005Server\1005Server\obj\Debug\1005Server.pdb
+C:\Users\user\Desktop\sample\1008 계좌관리프로그램 서버\1005Server\bin\Debug\1005Server.exe.config
+C:\Users\user\Desktop\sample\1008 계좌관리프로그램 서버\1005Server\bin\Debug\1005Server.exe
+C:\Users\user\Desktop\sample\1008 계좌관리프로그램 서버\1005Server\bin\Debug\1005Server.pdb
+C:\Users\user\Desktop\sample\1008 계좌관리프로그램 서버\1005Server\obj\Debug\1005Server.exe
+C:\Users\user\Desktop\sample\1008 계좌관리프로그램 서버\1005Server\obj\Debug\1005Server.pdb
+C:\Users\user\Desktop\sample\1008 계좌관리프로그램 서버\1005Server\obj\Debug\1005Server.csprojResolveAssemblyReference.cache
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\1008 계좌관리프로그램 서버\1005Server\bin\Debug\1005Server.exe.config
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\1008 계좌관리프로그램 서버\1005Server\obj\Debug\1005Server.exe
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\1008 계좌관리프로그램 서버\1005Server\obj\Debug\1005Server.pdb
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\1008 계좌관리프로그램 서버\1005Server\bin\Debug\1005Server.exe
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\1008 계좌관리프로그램 서버\1005Server\bin\Debug\1005Server.pdb
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\1008 계좌관리프로그램 서버\1005Server\obj\Debug\1005Server.csprojResolveAssemblyReference.cache
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\1008 계좌관리프로그램 서버DB와연동\1005Server\bin\Debug\1005Server.exe.config
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\1008 계좌관리프로그램 서버DB와연동\1005Server\obj\Debug\1005Server.exe
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\1008 계좌관리프로그램 서버DB와연동\1005Server\obj\Debug\1005Server.pdb
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\1008 계좌관리프로그램 서버DB와연동\1005Server\bin\Debug\1005Server.exe
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\1008 계좌관리프로그램 서버DB와연동\1005Server\bin\Debug\1005Server.pdb
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\1008 계좌관리프로그램 서버DB와연동\1005Server\obj\Debug\1005Server.csprojResolveAssemblyReference.cache
+C:\Users\DUMB\Desktop\시험 대비 폴더\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\1008 계좌관리프로그램 서버DB와연동\1005Server\bin\Debug\1005Server.exe.config
+C:\Users\DUMB\Desktop\시험 대비 폴더\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\1008 계좌관리프로그램 서버DB와연동\1005Server\obj\Debug\1005Server.exe
+C:\Users\DUMB\Desktop\시험 대비 폴더\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\1008 계좌관리프로그램 서버DB와연동\1005Server\obj\Debug\1005Server.pdb
+G:\Programming\MYFIle (2)\바탕화면\정리\시험 대비 폴더\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\1008 계좌관리프로그램 서버DB와연동\1005Server\bin\Debug\1005Server.exe.config
+G:\Programming\MYFIle (2)\바탕화면\정리\시험 대비 폴더\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\1008 계좌관리프로그램 서버DB와연동\1005Server\obj\Debug\1005Server.exe
+G:\Programming\MYFIle (2)\바탕화면\정리\시험 대비 폴더\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\1008 계좌관리프로그램 서버DB와연동\1005Server\obj\Debug\1005Server.pdb
+G:\Programming\MYFIle (2)\바탕화면\정리\시험 대비 폴더\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\1008 계좌관리프로그램 서버DB와연동\1005Server\bin\Debug\1005Server.exe
+G:\Programming\MYFIle (2)\바탕화면\정리\시험 대비 폴더\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\1008 계좌관리프로그램 서버DB와연동\1005Server\bin\Debug\1005Server.pdb
+G:\Programming\MYFIle (2)\바탕화면\정리\시험 대비 폴더\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\1008 계좌관리프로그램 서버DB와연동\1005Server\obj\Debug\1005Server.csprojResolveAssemblyReference.cache
+G:\Programming\MYFIle (2)\바탕화면\정리\시험 대비 폴더\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\1008 계좌관리프로그램 서버DB와연동\1005Server\bin\Debug\MySql.Data.dll
+G:\Programming\MYFIle (2)\바탕화면\정리\시험 대비 폴더\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\1008 계좌관리프로그램 서버DB와연동\1005Server\bin\Debug\Google.Protobuf.dll
+G:\Programming\MYFIle (2)\바탕화면\정리\시험 대비 폴더\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\1008 계좌관리프로그램 서버DB와연동\1005Server\bin\Debug\BouncyCastle.Crypto.dll
+G:\Programming\MYFIle (2)\바탕화면\정리\시험 대비 폴더\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\1008 계좌관리프로그램 서버DB와연동\1005Server\bin\Debug\Renci.SshNet.dll
+G:\Programming\MYFIle (2)\바탕화면\정리\시험 대비 폴더\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\1008 계좌관리프로그램 서버DB와연동\1005Server\bin\Debug\MySql.Data.xml

@@ -1,0 +1,42 @@
+D:\MYFIle\프로그램\20181004C샵deleEvent실습\20181004C샵deleEvent실습\bin\Debug\20181004C샵deleEvent실습.exe.config
+D:\MYFIle\프로그램\20181004C샵deleEvent실습\20181004C샵deleEvent실습\obj\Debug\20181004C샵deleEvent실습.csprojResolveAssemblyReference.cache
+D:\MYFIle\프로그램\20181004C샵deleEvent실습\20181004C샵deleEvent실습\bin\Debug\20181004C샵deleEvent실습.exe
+D:\MYFIle\프로그램\20181004C샵deleEvent실습\20181004C샵deleEvent실습\bin\Debug\20181004C샵deleEvent실습.pdb
+D:\MYFIle\프로그램\20181004C샵deleEvent실습\20181004C샵deleEvent실습\obj\Debug\20181004C샵deleEvent실습.exe
+D:\MYFIle\프로그램\20181004C샵deleEvent실습\20181004C샵deleEvent실습\obj\Debug\20181004C샵deleEvent실습.pdb
+D:\MYFIle\프로그램\20181004C샵deleEvent실습 - 복사본 (2)\20181004C샵deleEvent실습\obj\Debug\20181004C샵deleEvent실습.csprojResolveAssemblyReference.cache
+D:\MYFIle\프로그램\20181004C샵deleEvent실습 - 복사본 (2)\20181004C샵deleEvent실습\obj\Debug\20181004C샵deleEvent실습.exe
+D:\MYFIle\프로그램\20181004C샵deleEvent실습 - 복사본 (2)\20181004C샵deleEvent실습\obj\Debug\20181004C샵deleEvent실습.pdb
+D:\MYFIle\프로그램\20181004C샵deleEvent실습 - 복사본 (2)\20181004C샵deleEvent실습\bin\Debug\20181004C샵deleEvent실습.exe.config
+D:\MYFIle\프로그램\20181004C샵deleEvent실습 - 복사본 (2)\20181004C샵deleEvent실습\bin\Debug\20181004C샵deleEvent실습.exe
+D:\MYFIle\프로그램\20181004C샵deleEvent실습 - 복사본 (2)\20181004C샵deleEvent실습\bin\Debug\20181004C샵deleEvent실습.pdb
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\20181004C샵deleEvent실습 - 복사본 (2)\20181004C샵deleEvent실습\bin\Debug\20181004C샵deleEvent실습.exe.config
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\20181004C샵deleEvent실습 - 복사본 (2)\20181004C샵deleEvent실습\bin\Debug\20181004C샵deleEvent실습.exe
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\20181004C샵deleEvent실습 - 복사본 (2)\20181004C샵deleEvent실습\bin\Debug\20181004C샵deleEvent실습.pdb
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\20181004C샵deleEvent실습 - 복사본 (2)\20181004C샵deleEvent실습\obj\Debug\20181004C샵deleEvent실습.csprojResolveAssemblyReference.cache
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\20181004C샵deleEvent실습 - 복사본 (2)\20181004C샵deleEvent실습\obj\Debug\20181004C샵deleEvent실습.exe
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\20181004C샵deleEvent실습 - 복사본 (2)\20181004C샵deleEvent실습\obj\Debug\20181004C샵deleEvent실습.pdb
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\20181004C샵deleEvent실습 - 복사본 (2) (2)\20181004C샵deleEvent실습\bin\Debug\20181004C샵deleEvent실습.exe.config
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\20181004C샵deleEvent실습 - 복사본 (2) (2)\20181004C샵deleEvent실습\bin\Debug\20181004C샵deleEvent실습.exe
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\20181004C샵deleEvent실습 - 복사본 (2) (2)\20181004C샵deleEvent실습\bin\Debug\20181004C샵deleEvent실습.pdb
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\20181004C샵deleEvent실습 - 복사본 (2) (2)\20181004C샵deleEvent실습\obj\Debug\20181004C샵deleEvent실습.csprojResolveAssemblyReference.cache
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\20181004C샵deleEvent실습 - 복사본 (2) (2)\20181004C샵deleEvent실습\obj\Debug\20181004C샵deleEvent실습.exe
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\20181004C샵deleEvent실습 - 복사본 (2) (2)\20181004C샵deleEvent실습\obj\Debug\20181004C샵deleEvent실습.pdb
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\20181004C샵deleEvent실습 -체팅추가\20181004C샵deleEvent실습\bin\Debug\20181004C샵deleEvent실습.exe.config
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\20181004C샵deleEvent실습 -체팅추가\20181004C샵deleEvent실습\bin\Debug\20181004C샵deleEvent실습.exe
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\20181004C샵deleEvent실습 -체팅추가\20181004C샵deleEvent실습\bin\Debug\20181004C샵deleEvent실습.pdb
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\20181004C샵deleEvent실습 -체팅추가\20181004C샵deleEvent실습\obj\Debug\20181004C샵deleEvent실습.csprojResolveAssemblyReference.cache
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\20181004C샵deleEvent실습 -체팅추가\20181004C샵deleEvent실습\obj\Debug\20181004C샵deleEvent실습.exe
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\20181004C샵deleEvent실습 -체팅추가\20181004C샵deleEvent실습\obj\Debug\20181004C샵deleEvent실습.pdb
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\20181004C샵완성본 -체팅추가\20181004C샵deleEvent실습\bin\Debug\20181004C샵deleEvent실습.exe.config
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\20181004C샵완성본 -체팅추가\20181004C샵deleEvent실습\bin\Debug\20181004C샵deleEvent실습.exe
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\20181004C샵완성본 -체팅추가\20181004C샵deleEvent실습\bin\Debug\20181004C샵deleEvent실습.pdb
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\20181004C샵완성본 -체팅추가\20181004C샵deleEvent실습\obj\Debug\20181004C샵deleEvent실습.csprojResolveAssemblyReference.cache
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\20181004C샵완성본 -체팅추가\20181004C샵deleEvent실습\obj\Debug\20181004C샵deleEvent실습.exe
+D:\MYFIle\프로그램\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\20181004C샵완성본 -체팅추가\20181004C샵deleEvent실습\obj\Debug\20181004C샵deleEvent실습.pdb
+G:\Programming\MYFIle (2)\바탕화면\정리\시험 대비 폴더\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\20181004C샵완성본 -체팅추가\20181004C샵deleEvent실습\bin\Debug\20181004C샵deleEvent실습.exe.config
+G:\Programming\MYFIle (2)\바탕화면\정리\시험 대비 폴더\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\20181004C샵완성본 -체팅추가\20181004C샵deleEvent실습\bin\Debug\20181004C샵deleEvent실습.exe
+G:\Programming\MYFIle (2)\바탕화면\정리\시험 대비 폴더\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\20181004C샵완성본 -체팅추가\20181004C샵deleEvent실습\bin\Debug\20181004C샵deleEvent실습.pdb
+G:\Programming\MYFIle (2)\바탕화면\정리\시험 대비 폴더\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\20181004C샵완성본 -체팅추가\20181004C샵deleEvent실습\obj\Debug\20181004C샵deleEvent실습.csprojResolveAssemblyReference.cache
+G:\Programming\MYFIle (2)\바탕화면\정리\시험 대비 폴더\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\20181004C샵완성본 -체팅추가\20181004C샵deleEvent실습\obj\Debug\20181004C샵deleEvent실습.exe
+G:\Programming\MYFIle (2)\바탕화면\정리\시험 대비 폴더\20181008C#계좌관리 서버 제작\1008_계좌관리 네트웤포함\20181004C샵완성본 -체팅추가\20181004C샵deleEvent실습\obj\Debug\20181004C샵deleEvent실습.pdb
